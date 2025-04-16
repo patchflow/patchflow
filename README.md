@@ -31,6 +31,7 @@ I’m always looking for new ways to apply my skills in both the **gaming** and 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roblox%20Studio-ff0000?style=for-the-badge&logo=roblox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -44,7 +45,4 @@ I’m always working on improving my codebase and contributing to various projec
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6fJ8X4yHvIZwH2dc/giphy.gif" width="300" alt="coding gif"/>
-</p>
-
+<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="coding gif"/> </p>
