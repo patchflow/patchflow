@@ -5,24 +5,25 @@
   <img src="https://img.shields.io/badge/Languages-Lua%20%26%20Python-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tools-Git%20%26%20VSCode-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Experience-Intermediate-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Specialization-Cyber%20Security-red?style=for-the-badge">
 </p>
 
 ---
 
 ## 👨‍💻 Who I Am
 
-I’m a passionate developer focused on **game scripting**, **cybersecurity**, and **automation tools**. With experience in both **Lua** and **Python**, I enjoy building clean, efficient, and secure solutions for a variety of applications. Whether it’s creating custom tools for game development or securing systems with Python scripts, I thrive on tackling challenges.
+I’m a passionate developer specializing in **game scripting**, **automation tools**, **cybersecurity**, and **performance improvement**. With a solid background in **Lua** and **Python**, I thrive on building clean, efficient, and innovative solutions. I’ve worked on projects ranging from **game development** to **real-time system scripts**, and I’m always eager to tackle new challenges in the programming world.
 
-I’m always looking for new ways to apply my skills in both the **gaming** and **cybersecurity** worlds.
+I enjoy finding creative solutions to complex problems, whether it's in **gaming**, **productivity tools**, **cybersecurity**, or **software development**.
 
 ---
 
 ## 🚀 My Expertise
 
-- **Programming Languages**: Lua, Python
-- **Focus Areas**: Game Scripting, Cybersecurity, Automation, System Optimization
+- **Programming Languages**: Lua, Python, JavaScript
+- **Development Focus**: Game Scripting, Cybersecurity, Automation, Application Tools, API Integration
 - **Tools**: Git, GitHub, Visual Studio Code
-- **Frameworks**: Roblox Studio (Lua), Python
+- **Frameworks**: Flask, Django (Python), Roblox Studio (Lua)
 
 ---
 
@@ -39,10 +40,12 @@ I’m always looking for new ways to apply my skills in both the **gaming** and 
 
 ## 💻 Check Out My Work
 
-I’m always working on improving my codebase and contributing to various projects. If you're interested in seeing my work or collaborating, feel free to explore my repositories:
+I’m constantly working on improving my codebase and contributing to various projects. If you're interested in seeing my work or collaborating, feel free to explore my repositories:
 
 - [My Repos on GitHub](https://github.com/time-ops)
 
 ---
 
-<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="coding gif"/> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt5JxP9tQtRlNSY/giphy.gif" width="300" alt="coding gif"/>
+</p>
