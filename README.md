@@ -1,50 +1,73 @@
-<h1 align="center">Hi there, I'm <strong>time-ops</strong> 👋</h1>
+<h1 align="center">Hey, I'm <strong>time-ops</strong> 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Languages-Lua%20%26%20Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Roblox-Developer-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20Code-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tools-Git%20%26%20VSCode-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Experience-Intermediate-yellow?style=for-the-badge">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 
-I am a passionate developer with a focus on **Roblox scripting** and **game automation**. With a strong background in **Lua** and **Python**, I enjoy building efficient and creative solutions for game development.
+I’m a passionate developer specializing in **game scripting**, **automation tools**, and **performance improvement**. With a solid background in **Lua** and **Python**, I thrive on building clean, efficient, and innovative solutions. I’ve worked on projects ranging from **game development** to **real-time system scripts**, and I’m always eager to tackle new challenges in the programming world.
 
-Based in **France**, I specialize in creating high-performance systems for Roblox, focusing on enhancing user experience with clean, optimized code. I am always learning and evolving my skills to stay ahead in the game development community.
-
----
-
-## 🧰 My Skills
-
-- **Languages**: Lua, Python
-- **Development**: Roblox Scripting, Automation, Optimization
-- **Tools**: Visual Studio Code, Git, GitHub, Roblox Studio
-- **Specialization**: Game logic, Performance optimization, Real-time scripting
+I enjoy finding creative solutions to complex problems, whether it's in **gaming**, **productivity tools**, or **software development**.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 My Expertise
 
-I’m currently developing tools for **Roblox** to enhance game functionality. Some of my projects include:
-- **Game performance tools**
-- **Custom automation scripts**
-- **Gameplay optimization systems**
+- **Programming Languages**: Lua, Python, JavaScript
+- **Development Focus**: Game Scripting, Automation, Application Tools, API Integration
+- **Tools**: Git, GitHub, Visual Studio Code, Docker
+- **Frameworks**: Flask, Django (Python), Roblox Studio (Lua)
 
 ---
 
-## 📫 How to Reach Me
+## 💼 Current Projects
+
+Here’s a snapshot of some ongoing work:
+
+- **Game Scripting**: Developing scripts and tools for various games, focusing on enhancing user experience.
+- **Automation Tools**: Building Python-based automation scripts for data processing, system management, and more.
+- **API Integrations**: Creating robust systems that integrate with third-party APIs for seamless functionality.
+
+---
+
+## ⚙️ Skills & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out for collaboration, discussions, or just to connect. I’m always open to learning and sharing ideas.
 
 - **GitHub**: [github.com/time-ops](https://github.com/time-ops)
-- **Twitter**: [@time_ops](https://twitter.com/time_ops)
+- **Email**: [time.ops@example.com](mailto:time.ops@example.com)
 
 ---
 
-## 💡 Fun Fact
+## ⚡ Fun Fact
 
-I love solving performance issues in code, and I believe that a clean, efficient script can drastically improve a game’s experience. You’ll often find me testing new ideas and pushing my limits.
+When I’m not coding, I enjoy experimenting with new technologies, from **machine learning** to **gaming**. I’m always exploring new ways to build meaningful projects that push boundaries. I believe in continuously learning and expanding my skill set.
+
+---
+
+## 💻 Check Out My Work
+
+I’m constantly working on improving my codebase and contributing to various projects. If you're interested in seeing my work or collaborating, feel free to explore my repositories:
+
+- [My Repos on GitHub](https://github.com/time-ops)
 
 ---
 
@@ -53,36 +76,3 @@ I love solving performance issues in code, and I believe that a clean, efficient
 </p>
 
 ---
-
-## 🔧 Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox-323232?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## ⚙️ My Work
-
-I have a wide range of work under my belt, primarily focused on creating advanced **Roblox systems**, optimizing **gameplay mechanics**, and automating **game logic**. I'm constantly improving my workflow and exploring new ideas to stay at the cutting edge of scripting.
-
----
-
-## ⚠️ Disclaimer
-
-This profile and the scripts I share are intended for educational purposes only. I do not endorse any kind of misuse or violation of terms of service of any platform. Please ensure you use any scripts responsibly and respect community guidelines.
-
----
-
-## 🧠 Credits
-
-- **Developer**: [time-ops](https://github.com/time-ops)
-- 
----
-
-
