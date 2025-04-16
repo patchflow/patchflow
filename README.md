@@ -44,7 +44,7 @@ I enjoy finding creative solutions to complex problems, whether it's in **gaming
 
 ## 💻 Check Out My Work
 
-**feel free to explore my repositories:**
+**Feel free to browse my projects and give them a star if you like:**
 
 - [My Repos on GitHub](https://github.com/time-ops)
 
