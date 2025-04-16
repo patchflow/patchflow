@@ -37,8 +37,8 @@ I enjoy finding creative solutions to complex problems, whether it's in **gaming
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-0069A5?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Roblox%20Studio-ff0000?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Kali_Linux_logo_2022.svg" width="60" alt="Kali Linux logo"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C75?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </p>
 
 ---
@@ -54,4 +54,3 @@ I’m constantly working on improving my codebase and contributing to various pr
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlTg2ntGhV7h1XG/giphy.gif" width="300" alt="coding gif"/>
 </p>
-
