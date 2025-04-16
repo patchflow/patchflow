@@ -22,7 +22,7 @@ I enjoy finding creative solutions to complex problems, whether it's in **gaming
 
 - **Programming Languages**: Lua, Python, JavaScript, C++, SQL
 - **Development Focus**: Game Scripting, Cybersecurity, Automation, Application Tools, API Integration
-- **Tools**: Git, GitHub, Visual Studio Code, Jupyter, PowerShell, Docker, Kali Linux
+- **Tools**: Git, GitHub, Visual Studio Code, Jupyter, Docker, Kali Linux
 - **Frameworks**: Flask, Django (Python), Roblox Studio (Lua)
 - **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
 
@@ -44,12 +44,13 @@ I enjoy finding creative solutions to complex problems, whether it's in **gaming
 
 ## 💻 Check Out My Work
 
-I’m constantly working on improving my codebase and contributing to various projects. If you're interested in seeing my work or collaborating, feel free to explore my repositories:
+feel free to explore my repositories:
 
 - [My Repos on GitHub](https://github.com/time-ops)
 
 ---
 
 <p align="center">
-  <img src="https://tenor.com/fr/view/hello-world-animation-hello-coding-gif-1378121840400141809" width="300" alt="coding gif"/>
+  <img src="https://tenor.com/fr/view/hello-world-animation-hello-coding-gif-1378121840400141809.gif" width="300" alt="coding gif"/>
 </p>
+
