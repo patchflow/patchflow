@@ -44,13 +44,13 @@ I enjoy finding creative solutions to complex problems, whether it's in **gaming
 
 ## 💻 Check Out My Work
 
-feel free to explore my repositories:
+**feel free to explore my repositories:**
 
 - [My Repos on GitHub](https://github.com/time-ops)
 
 ---
 
 <p align="center">
-  <img src="https://tenor.com/fr/view/hello-world-animation-hello-coding-gif-1378121840400141809.gif" width="300" alt="coding gif"/>
+  <img src="https://tenor.com/fr/view/hello-world-animation-hello-coding-gif-1378121840400141809.gif" width="500" alt="coding gif"/>
 </p>
 
