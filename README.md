@@ -1,31 +1,31 @@
-# patchflow
+<h1 align="center">Salut je suis patchflow</h1>
+<p align="center"><i>Code. Analyse. Offensive mindset.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Language-Lua%20%7C%20Python%20%7C%20C++-success?style=flat-square&logo=code" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-critical?style=flat-square&logo=protonvpn" />
-  <img src="https://img.shields.io/badge/Automation-Enabled-red?style=flat-square&logo=robotframework" />
+  <img src="https://img.shields.io/badge/Languages-Lua%20|%20Python%20|%20C++-success?style=flat-square&logo=code" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-critical?style=flat-square&logo=protonvpn" />
 </p>
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 À propos
 
-Je suis un développeur passionné par le code bas niveau, l'automatisation, la cybersécurité et le reverse engineering. Mon objectif : comprendre, explorer et repousser les limites techniques des systèmes et protocoles.
+Je code avec une mentalité offensive, entre cybersécurité et automatisation. Passionné par le reverse engineering, l'analyse de protocoles, et le contrôle de systèmes complexes.
+Objectif : maîtriser les couches basses, contourner les barrières, écrire des outils utiles et propres.
 
 ---
 
-## 🛠️ Compétences
+## 🧰 Outils & Langages
 
 ```txt
-Langages    : Lua · Python · JavaScript · C++ · Bash
-Systeme     : Linux · Windows
+Langages     : Lua · Python · C++ · Bash
 ```
 
 ---
 
-## 📊 Stats GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patchflow&show_icons=true&theme=tokyonight" />
@@ -33,6 +33,3 @@ Systeme     : Linux · Windows
 </p>
 
 ---
-
-<p align="center"><i>Exploring systems. Writing silent tools. Becoming cyber.</i></p>
-
