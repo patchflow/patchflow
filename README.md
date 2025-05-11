@@ -1,4 +1,4 @@
-<h1 align="center">Salut je suis patchflow</h1>
+<h1 align="center">👋 Salut je suis patchflow</h1>
 <p align="center"><i>Code. Analyse. Offensive mindset.</i></p>
 
 <p align="center">
@@ -12,17 +12,21 @@
 
 ## 🧠 À propos
 
-Je code avec une mentalité offensive, entre cybersécurité et automatisation. Passionné par le reverse engineering, l'analyse de protocoles, et le contrôle de systèmes complexes.
-Objectif : maîtriser les couches basses, contourner les barrières, écrire des outils utiles et propres.
+Je suis un développeur autodidacte orienté cybersécurité, passionné par la compréhension profonde des systèmes, l'automatisation, et la manipulation de données et de protocoles. 
+
+Je m'intéresse aux techniques de reverse engineering, à la sécurité offensive, à l'automatisation de tâches complexes, et à l'optimisation de flux techniques. Mon but est de gagner en autonomie et en précision sur des environnements souvent instables, inconnus, ou volontairement protégés.
+
+Je crois que tout comportement logiciel peut être compris, répliqué ou contourné si on creuse assez loin. Je n'aime pas la surcouche inutile — je préfère la logique claire, la ligne efficace, l'effet immédiat.
 
 ---
 
 ## 🧰 Outils & Langages
 
 ```txt
-Langages     : Lua · Python · C++ · Bash
+Langages       : Lua · Python · C++ · Bash · HTML/CSS
+Sécu/Reverse   : Wireshark · Nmap · Burp Suite · Fiddler
+Dev & CLI      : Git · VSCode · Docker · tmux · ncat · curl
 ```
-
 ---
 
 ## 📈 GitHub Stats
@@ -33,3 +37,4 @@ Langages     : Lua · Python · C++ · Bash
 </p>
 
 ---
+
