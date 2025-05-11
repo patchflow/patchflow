@@ -1,56 +1,43 @@
-<h1 align="center">Hey, I'm <strong>time-ops</strong> 👋</h1>
+<h1 align="center">🔑 patchflow</h1>
+<p align="center"><i>Automation • Reverse • Code minimaliste et brut</i></p>
+
+---
+
+### 🧬 À propos
+
+Développeur low-level, bidouilleur d’automatismes, et passionné par tout ce qui peut tourner sans surveillance.  
+J'écris du code qui **exécute**, pas qui impressionne. Résultat > présentation.
+
+---
+
+### 🛠️ Stack & outils
+
+```text
+Langages : Lua · Python · JavaScript · C++ · HTML/CSS
+Outils    : Git · VSCode · Linux · Wireshark · Ghidra · Fiddler
+```
+
+---
+
+### 🔥 Projets (privés & publics)
+
+- 🧠 Scripts d'automation multi-cibles
+- 💥 Reverse de protocoles fermés
+- 🛸 Sniper d'objets dynamiques (ex: loot, drops, coffres)
+- 📦 Firmwares custom pour micro-contrôleurs
+
+> Rien ici n’est noob-friendly. Tu lis, tu comprends, ou tu fermes l’onglet.
+
+---
+
+### 📉 Github Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Languages-Lua%20%26%20Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-Git%20%26%20VSCode-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Experience-Intermediate-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Specialization-Cyber%20Security-red?style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api?username=patchflow&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patchflow&theme=gruvbox" />
 </p>
 
 ---
 
-## 👨‍💻 Who I Am
-
-I’m a passionate developer specializing in **game scripting**, **automation tools**, **cybersecurity**, and **performance improvement**. With a solid background in **Lua** and **Python**, I thrive on building clean, efficient, and innovative solutions. I’ve worked on projects ranging from **game development** to **real-time system scripts**, and I’m always eager to tackle new challenges in the programming world.
-
-I enjoy finding creative solutions to complex problems, whether it's in **gaming**, **productivity tools**, **cybersecurity**, or **software development**.
-
----
-
-## 🚀 My Expertise
-
-- **Programming Languages**: Lua, Python, JavaScript, C++, SQL
-- **Development Focus**: Game Scripting, Cybersecurity, Automation, Application Tools, API Integration
-- **Tools**: Git, GitHub, Visual Studio Code, Jupyter, Docker, Kali Linux
-- **Frameworks**: Flask, Django (Python), Roblox Studio (Lua)
-- **Cybersecurity**: Ethical Hacking, Penetration Testing, Network Security
-
----
-
-## ⚙️ Skills & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-0069A5?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox%20Studio-ff0000?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C75?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-</p>
-
----
-
-## 💻 Check Out My Work
-
-**Feel free to browse my projects and give them a star if you like:**
-
-- [My Repos on GitHub](https://github.com/time-ops)
-
----
-
-<p align="center">
-  <img src="https://tenor.com/fr/view/hello-world-animation-hello-coding-gif-1378121840400141809.gif" width="500" alt="coding gif"/>
-</p>
+<p align="center"><i>Work fast. Break systems. Patch flows.</i></p>
 
