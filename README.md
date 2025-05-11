@@ -1,43 +1,38 @@
-<h1 align="center">🔑 patchflow</h1>
-<p align="center"><i>Automation • Reverse • Code minimaliste et brut</i></p>
-
----
-
-### 🧬 À propos
-
-Développeur low-level, bidouilleur d’automatismes, et passionné par tout ce qui peut tourner sans surveillance.  
-J'écris du code qui **exécute**, pas qui impressionne. Résultat > présentation.
-
----
-
-### 🛠️ Stack & outils
-
-```text
-Langages : Lua · Python · JavaScript · C++ · HTML/CSS
-Outils    : Git · VSCode · Linux · Wireshark · Ghidra · Fiddler
-```
-
----
-
-### 🔥 Projets (privés & publics)
-
-- 🧠 Scripts d'automation multi-cibles
-- 💥 Reverse de protocoles fermés
-- 🛸 Sniper d'objets dynamiques (ex: loot, drops, coffres)
-- 📦 Firmwares custom pour micro-contrôleurs
-
-> Rien ici n’est noob-friendly. Tu lis, tu comprends, ou tu fermes l’onglet.
-
----
-
-### 📉 Github Stats
+# patchflow
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patchflow&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patchflow&theme=gruvbox" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Language-Lua%20%7C%20Python%20%7C%20C++-success?style=flat-square&logo=code" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Focused-critical?style=flat-square&logo=protonvpn" />
+  <img src="https://img.shields.io/badge/Automation-Enabled-red?style=flat-square&logo=robotframework" />
 </p>
 
 ---
 
-<p align="center"><i>Work fast. Break systems. Patch flows.</i></p>
+## 🧠 À propos de moi
+
+Je suis un développeur passionné par le code bas niveau, l'automatisation, la cybersécurité et le reverse engineering. Mon objectif : comprendre, explorer et repousser les limites techniques des systèmes et protocoles.
+
+---
+
+## 🛠️ Compétences
+
+```txt
+Langages    : Lua · Python · JavaScript · C++ · Bash
+Systeme     : Linux · Windows
+```
+
+---
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patchflow&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patchflow&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center"><i>Exploring systems. Writing silent tools. Becoming cyber.</i></p>
 
